@@ -1,5 +1,4 @@
 import React, { useEffect, useState } from 'react';
-import config from '../config'
 
 export default function RecruiterHome() {
   const [recruiterData, setRecruiterData] = useState("");

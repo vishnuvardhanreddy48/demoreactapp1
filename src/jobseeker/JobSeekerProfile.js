@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from 'react';
 import './jobseeker.css';
-import config from '../config'
 
 export default function JobSeekerProfile() {
   const [jobseekerData, setJobSeekerData] = useState(null);

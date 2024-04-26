@@ -9,7 +9,6 @@ import Contact from './Contact';
 import AdminLogin from './../admin/AdminLogin';
 import RecruiterLogin from '../recruiter/RecruiterLogin';
 import PageNotFound from './PageNotFound';
-import config from '../config'
 
 export default function MainNavBar({ onAdminLogin,onJobSeekerLogin,onRecruiterLogin }) {
   return (
