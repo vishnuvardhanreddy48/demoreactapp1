@@ -7,7 +7,7 @@ import JobSeekerProfile from './JobSeekerProfile';
 import UpdateJSProfile from './UpdateJSProfile';
 import ViewJobsPosted from './ViewJobsPosted';
 import ViewAppliedJobs from './ViewAppliedJobs';
-import config from '../config'
+
 
 export default function JobSeekerNavBar() {
   const navigate = useNavigate();
